@@ -21,8 +21,6 @@ project/
 │   └── file2.txt
 └── merged\_files/          # Created automatically by the script
 
-````
-
 ## 🚀 How It Works
 
 - The script walks through all folders starting from the current working directory.
